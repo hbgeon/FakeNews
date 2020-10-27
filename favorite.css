@@ -1,0 +1,40 @@
+.header{
+	background-color: hidden;
+	color : black;
+	text-align: center;
+	padding: 40px;
+	font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
+.topnav{
+	overflow: hidden;
+	background-color: black;
+}
+.topnav a{
+	float: left;
+	display : block;
+	color: white;
+	text-align: center;
+	padding: 20px 30px;
+	text-decoration: none;
+	font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
+body {
+  background: url(color.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  
+}
+
+h1{
+	color : black;
+	font-size : 50px;
+}
+h2{ 
+ margin-left :  100px;
+ margin-right: 100px;
+ margin-top : 50px;
+ text-align: left;
+ 
+}
