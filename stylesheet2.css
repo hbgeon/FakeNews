@@ -1,0 +1,57 @@
+.header{
+	background-color: hidden;
+	color : black;
+	text-align: center;
+	padding: 40px;
+	font-family : "Comic Sans MS", cursive, sans-serif
+}
+
+.topnav{
+	overflow: hidden;
+	background-color: black;
+}
+.topnav a{
+	float: left;
+	display : block;
+	color: white;
+	text-align: center;
+	padding: 20px 30px;
+	text-decoration: none;
+	font-family : "Comic Sans MS", cursive, sans-serif
+}
+
+
+
+body {
+  background: url(beach.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+
+div.polaroid {
+	width: 31.5%;
+	background-color: none;
+	float: left;
+}
+
+
+
+div.polaroid img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.container {
+	text-align: center;
+	padding: 10px 20px;
+	color : black;
+	font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
+p{
+	color: black;
+	font-size : 40px;
+}
